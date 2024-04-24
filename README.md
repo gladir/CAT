@@ -114,6 +114,25 @@ CAT [option] [fichier]
   </tr>
 </table>
 
+<h2>Quoi de neuf</h2>
+
+<h4>Version 2.0</h4>
+<ul>
+  <li>Ajout d'un support à multiple langages : francais, anglais</li>
+  <li>Ajout des paramètres --c, --hex, --html, --lower, --pascal, --trim, --uniq et --upper.</li>
+</ul>
+
+<h4>Verion 1.0.1</h4>
+<ul>
+  <li>Rend le code compilable avec le Turbo Pascal</li>
+</ul>
+
+<h4>Verion 1.0</h4>
+<ul>
+  <li>Première version</li>
+</ul>
+
+
 <h2>Compilation</h2>
 	
 Les fichiers Pascal n'ont aucune dépendances, il suffit de télécharger le fichier désiré et de le compiler avec Free Pascal avec la syntaxe de commande  :
